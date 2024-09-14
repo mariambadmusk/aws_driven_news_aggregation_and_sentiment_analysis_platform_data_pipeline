@@ -1,3 +1,14 @@
-C:\Users\kike_\OneDrive\Desktop\projects\news_analysis\.env
-C:\Users\kike_\OneDrive\Desktop\projects\news_analysis\logs
-logs/scheduler/latest
+.env
+sample.py
+Dockerfile
+.venv
+logs
+config
+plugins
+scripts/__pycache__
+dags/__pycache__  
+
+
+
+
+

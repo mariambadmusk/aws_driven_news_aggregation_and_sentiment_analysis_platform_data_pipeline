@@ -1,0 +1,125 @@
+2024-09-06 21:10:53,762 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  database "news_sentiment_airflow_database" does not exist
+
+2024-09-06 21:11:05,605 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  database "news_sentiment_airflow_database" does not exist
+
+2024-09-06 21:20:18,177 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "news_sentiment_airflow_user"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "news_sentiment_airflow_user"
+
+2024-09-06 21:30:00,528 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: fe_sendauth: no password supplied
+
+2024-09-06 21:30:17,074 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2024-09-06 21:31:10,073 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2024-09-06 21:31:14,419 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2024-09-06 21:31:16,414 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2024-09-06 21:32:30,168 - INFO - Database connection established successfully.
+2024-09-06 21:32:30,325 - INFO - Sample table created successfully.
+2024-09-06 21:37:16,093 - INFO - Database connection established successfully.
+2024-09-06 21:37:16,096 - INFO - Cursor created successfully.
+2024-09-06 21:37:16,104 - INFO - Table 'nko' dropped successfully.
+2024-09-06 21:37:31,973 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  database "news_sentiment_airflow_database" does not exist
+
+2024-09-06 21:45:33,194 - INFO - news_sentiment_analysis_database, news_sentiment_airflow_user with password connection established successfully.
+2024-09-06 21:45:33,289 - INFO - All databases and tables created
+2024-09-06 21:45:33,289 - INFO - Connection closed
+2024-09-13 06:09:25,630 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5433 failed: FATAL:  password authentication failed for user "postgres_user"
+
+2024-09-13 06:09:42,789 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5433 failed: FATAL:  password authentication failed for user "postgres_user"
+
+2024-09-13 06:09:42,789 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 06:10:25,490 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+
+2024-09-13 06:10:49,171 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+
+2024-09-13 06:10:49,172 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 06:14:39,917 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+
+2024-09-13 06:14:52,792 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+
+2024-09-13 06:15:06,674 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+
+2024-09-13 06:15:20,627 - ERROR - Error connecting to the database: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres_user"
+
+2024-09-13 06:23:05,404 - ERROR - Error connecting to the database: could not translate host name "postgres_host" to address: Temporary failure in name resolution
+
+2024-09-13 06:23:17,794 - ERROR - Error connecting to the database: could not translate host name "postgres_host" to address: Temporary failure in name resolution
+
+2024-09-13 06:23:28,523 - ERROR - Error connecting to the database: could not translate host name "postgres_host" to address: Temporary failure in name resolution
+
+2024-09-13 06:23:28,524 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 06:23:52,028 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 06:23:52,029 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 06:24:02,750 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 06:24:02,751 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 06:31:11,131 - ERROR - Error connecting to the database: connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+
+2024-09-13 06:32:21,953 - ERROR - Error connecting to the database: connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+
+2024-09-13 06:32:24,121 - ERROR - Error connecting to the database: connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+
+2024-09-13 06:32:24,122 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 06:32:35,282 - ERROR - Error connecting to the database: connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+
+2024-09-13 06:32:35,283 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 06:36:11,810 - ERROR - Error connecting to the database: connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+
+2024-09-13 06:36:11,810 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 06:36:16,898 - ERROR - Error connecting to the database: connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+connection to server at "postgres_sql" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "abike"
+
+2024-09-13 06:36:16,898 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 06:41:43,437 - ERROR - Error connecting to the database: connection to server on socket "/var/run/postgresql/.s.PGSQL.5432" failed: FATAL:  Peer authentication failed for user "abike"
+
+2024-09-13 06:41:47,182 - ERROR - Error connecting to the database: connection to server on socket "/var/run/postgresql/.s.PGSQL.5432" failed: FATAL:  Peer authentication failed for user "abike"
+
+2024-09-13 06:41:47,182 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 10:03:13,243 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 10:03:13,247 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 10:03:53,395 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 10:04:03,545 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 10:04:13,692 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 10:04:13,693 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 10:06:36,318 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 10:06:36,318 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 10:07:18,388 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 10:07:28,546 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 10:07:28,546 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 10:09:35,719 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 10:09:35,720 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 10:12:32,079 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 10:12:32,080 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 10:18:28,847 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 10:18:28,848 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
+2024-09-13 11:41:25,847 - ERROR - Error connecting to the database: could not translate host name "postgres_sql" to address: Temporary failure in name resolution
+
+2024-09-13 11:41:25,848 - ERROR - Failed to connect to the database: 'NoneType' object has no attribute 'cursor'
